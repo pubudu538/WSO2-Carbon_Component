@@ -1,0 +1,11 @@
+org/wso2/carbon/student/mgt/GetStudentsResponse$Factory.class
+org/wso2/carbon/student/mgt/data/xsd/Student.class
+org/wso2/carbon/student/mgt/stub/StudentManagerStub.class
+org/wso2/carbon/student/mgt/stub/StudentManagerStub$1.class
+org/wso2/carbon/student/mgt/GetStudentsResponse.class
+org/wso2/carbon/student/mgt/GetStudents$Factory.class
+org/wso2/carbon/student/mgt/stub/StudentManagerCallbackHandler.class
+org/wso2/carbon/student/mgt/stub/StudentManager.class
+org/wso2/carbon/student/mgt/data/xsd/Student$Factory.class
+org/wso2/carbon/student/mgt/data/xsd/ExtensionMapper.class
+org/wso2/carbon/student/mgt/GetStudents.class
